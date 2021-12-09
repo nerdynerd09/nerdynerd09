@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/nerdynerd09/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nerdynerd09&count_private=true&hide=issues&show_icons=true&theme=radical" /></a>
 
 <a href="https://github.com/nerdynerd09/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdynerd09&hide=jupyter%20notebook&layout=compact&theme=radical" /></a>
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin] : https://www.linkedin.com/in/ashharali/
+[instagram] : https://www.instagram.com/hackersarean0
