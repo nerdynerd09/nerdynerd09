@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hacker | Hustler<br>
+💡  | Life is all about δx<br>
+🕶️ | Cybersecurity<br>
+💻 | Python & C<br>
+🔭 | Entrepreneurship<br>
+🖱️  | EthicalHacking<br><br>
 <!--
 **nerdynerd09/nerdynerd09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +25,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/nerdynerd09/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdynerd09&hide=jupyter%20notebook&layout=compact&theme=radical" /></a>
 ---
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
