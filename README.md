@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/nerdynerd09/"><img align="center" title="My Github Stats" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nerdynerd09&count_private=true&hide=issues&show_icons=true&theme=radical" /></a>
 
 <a href="https://github.com/nerdynerd09/"><img align="center" title="My Top Languages" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdynerd09&hide=jupyter%20notebook&layout=compact&theme=radical" /></a>
----
-<h1> Languages:<h1>
+<br>
+<!-- <h1> Languages:<h1> -->
   <a href="https://dart.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/DART-blue?logo=DART&logoColor=white&labelColor=0175C2&color=0175C2"></a>
   <a href="https://python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PYTHON-yellow?logo=PYTHON&logoColor=black&labelColor=green&color=green"></a> 
   <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/CSS-yellow?logo=CSS3&logoColor=white&labelColor=red&color=red">
